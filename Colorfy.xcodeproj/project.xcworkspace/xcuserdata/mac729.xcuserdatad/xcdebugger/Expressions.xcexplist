@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "writev:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "redRange">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageShareViewController lineFilterWhiteBtnClick:]:ImageShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "changedImage1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageShareViewController replaceColor:inImage:withTolerance:]:ImageShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "r">
+            </PersistentString>
+            <PersistentString
+               value = "redRange">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController collectionView:didSelectItemAtIndexPath:]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[categoryNameArray objectAtIndex:indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageShareViewController vinetteBtnClick:]:ImageShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[vignette outputImage]">
+            </PersistentString>
+            <PersistentString
+               value = "vignette.outputImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageShareViewController replaceColorFromBlackToWhite:inImage:withTolerance:]:ImageShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image">
+            </PersistentString>
+            <PersistentString
+               value = "imageRef">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyWorksViewController collectionView:layout:sizeForItemAtIndexPath:]:MyWorksViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

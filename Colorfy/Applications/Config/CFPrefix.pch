@@ -1,0 +1,24 @@
+//  CFPrefix.pch
+//  Created by Jokim
+
+#ifndef CFPrefix_pch
+#define CFPrefix_pch
+
+// Library
+
+#import "Config.h"
+#import "ActivityIndicator.h"
+#import "JSON.h"
+#import "UIImageView+AFNetworking.h"
+#import "UIButton+AFNetworking.h"
+#import "DoAlertView.h"
+#import "UIViewController+KNSemiModal.h"
+
+#import "AppController.h"
+#import "CommonUtils.h"
+#import "DatabaseController.h"
+
+#define appController [AppController sharedInstance]
+#define commonUtils [CommonUtils shared]
+
+#endif
